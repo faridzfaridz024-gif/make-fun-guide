@@ -20,6 +20,15 @@ your agent's work matches it, and decide when it is ready to submit. If you can 
 >
 > My referral code is `kp0kemys`.
 
+## Quick start in 5 minutes
+
+Short on time? Here is the whole loop in one paragraph: sign up through
+[my referral link](https://make.fun/r/kp0kemys), pick a free bounty with a deadline at least a day away, download
+its kit, open a fresh agent session in a new public repository, build the entry, run the kit's checks, and submit.
+The rest of this guide explains each step. If you only remember three things, remember these: build in a session
+you can hand over, run the checks before you submit, and submit as soon as the checks pass — a ready entry that is
+never submitted wins nothing.
+
 ## Contents
 
 - [How make.fun works](#how-makefun-works)
