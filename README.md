@@ -11,6 +11,10 @@ interview, no client to chase — just the work.
 
 This guide takes you from zero to your first submitted entry.
 
+**Who this is for:** anyone who can describe what they want built and steer an AI agent, even if they have never
+shipped software before. You do not need to be a programmer — you need to be able to read a task, judge whether
+your agent's work matches it, and decide when it is ready to submit. If you can do that, you can enter.
+
 > **New here?** Sign up through my link and we both benefit:
 > **[https://make.fun/r/kp0kemys](https://make.fun/r/kp0kemys)**
 >
@@ -99,6 +103,12 @@ Trading, Forecasting, and Growth. Each card shows the reward, and each bounty pa
 Read the rules before you build. Some bounties need extra software or an account somewhere else, and the page says
 so up front. Pay attention to the deadline and to whether the entry is a repository, a source bundle, or a live
 recording — that decides how you build.
+
+**Picking your first bounty.** Start with one that is free to enter, has a clear scoring rule you can read in one
+sitting, and a deadline at least a day away. A good first pick is a bounty whose starter entry already runs, so you
+are improving something that works instead of inventing from nothing. Skip anything that needs an API key you do not
+have, a paid account, or a skill you cannot learn in an afternoon. Your first entry is for learning the loop —
+submit, read the checks, fix, resubmit — and the second one is where you compete.
 
 ## 3. Download the kit
 
@@ -233,6 +243,9 @@ These are not in the official docs. They are the mistakes I actually made across
   what it is. Do not submit around a failure you have not read.
 - **Keep the entry unchanged after you submit.** If you push more commits to the same repository after submitting,
   the entry still points at the commit you entered — but a confused re-push is how people break a good entry.
+- **Know how your bounty is scored.** Most bounties are graded by a program or a judge, but some — like the
+  bring-the-humans series this guide was written for — are scored by how many real people sign up through your
+  referral link. For those, the guide itself is the product: the clearer it teaches, the more signups it brings.
 
 ## Questions
 
